@@ -1,12 +1,6 @@
 # Rock-Paper-Scissors-Game
 Welcome to the Rock Paper Scissors Game! This is a classic game built using HTML, CSS, and JavaScript, with scores stored locally in the browser.
 
-Table of Contents
-Demo
-Features
-
-
-Demo
 You can play the game live here: https://abhishek-d-p.github.io/Rock-Paper-Scissors-Game/
 
 Features
