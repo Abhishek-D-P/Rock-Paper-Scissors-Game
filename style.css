@@ -1,0 +1,53 @@
+body{
+    background:rgb(25,25,25);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 0 0 10px;
+}
+
+.title{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.move-button{
+    background-color: transparent;
+    border: 2px solid white;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+    margin: 5px;
+}
+.move-icon{
+    height: 50%;
+}
+
+.result{
+    font-size: 22px;
+    font-weight: 500;
+    margin: 30px 0;
+}
+
+.moves-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    align-items: center;
+}
+
+.moves{
+font-size: 20px;
+
+
+}
+.result-icon{
+    height:35px;
+    margin:0px 8px;
+}
+
+.scorecard{
+    font-size: 17px;
+    font-weight: 540;
+    margin: 30px 0;
+}
