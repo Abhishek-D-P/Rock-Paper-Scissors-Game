@@ -7,7 +7,7 @@ Features
 
 
 Demo
-You can play the game live here: Rock Paper Scissors Game (Replace with your live URL if available)
+You can play the game live here: https://abhishek-d-p.github.io/Rock-Paper-Scissors-Game/
 
 Features
 Simple and intuitive interface.
